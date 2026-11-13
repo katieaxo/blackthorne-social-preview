@@ -1,0 +1,1 @@
+PUBLIC GITHUB PAGES PREVIEW ONLY. Upload extracted files and folders to repository root. No Netlify functions, API credentials, or backend. AI replies do not work here. Do not deploy this preview bundle to production.
